@@ -3,11 +3,18 @@
     {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "Page2",
+      "isDefault": false
     }
   ],
   "viewMode": false,
   "appIsExample": false,
   "unreadCommentThreads": 0,
+  "unpublishedApplicationDetail": {
+    "hiddenJSLibs": []
+  },
   "color": "#F4FFDE",
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
