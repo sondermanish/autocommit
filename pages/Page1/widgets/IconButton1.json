@@ -17,7 +17,7 @@
     "mobileRightColumn": 14,
     "animateLoading": true,
     "parentColumnSpace": 11.25,
-    "leftColumn": 10,
+    "leftColumn": 40,
     "dynamicBindingPathList": [
         {"key": "buttonColor"},
         {"key": "borderRadius"}
@@ -25,7 +25,7 @@
     "isDisabled": false,
     "key": "dj45n0dugx",
     "isDeprecated": false,
-    "rightColumn": 14,
+    "rightColumn": 44,
     "iconName": "plus",
     "widgetId": "qgsw245nl8",
     "minWidth": 50,

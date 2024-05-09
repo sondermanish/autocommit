@@ -6,7 +6,7 @@
     "type": "INPUT_WIDGET_V2",
     "animateLoading": true,
     "resetOnSubmit": true,
-    "leftColumn": 19,
+    "leftColumn": 10,
     "dynamicBindingPathList": [
         {"key": "accentColor"},
         {"key": "borderRadius"}
@@ -35,7 +35,7 @@
         "number",
         "textarea"
     ],
-    "bottomRow": 43,
+    "bottomRow": 42,
     "parentRowSpace": 10,
     "autoFocus": false,
     "hideCard": false,
@@ -45,7 +45,7 @@
     "key": "nnrslzlg7p",
     "labelTextSize": "0.875rem",
     "isDeprecated": false,
-    "rightColumn": 39,
+    "rightColumn": 30,
     "widgetId": "lx3q92ahay",
     "minWidth": 450,
     "label": "Label",
