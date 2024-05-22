@@ -16,7 +16,14 @@
     "hiddenJSLibs": []
   },
   "color": "#F4FFDE",
-  "unpublishedCustomJSLibs": [],
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "jsonwebtoken_/libraries/jsonwebtoken@8.5.1.js"
+    },
+    {
+      "uidString": "XMLParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/4.3.2/fxparser.min.js"
+    }
+  ],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
